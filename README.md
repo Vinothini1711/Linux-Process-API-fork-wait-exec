@@ -52,41 +52,21 @@ int main(void)
 ##OUTPUT
 
 
-![Screenshot 2024-03-28 093016](https://github.com/ARCH2006/Linux-Process-API-fork-wait-exec/assets/144300030/4cc488e3-935b-4059-8eb0-a806618b2d57)
+![Screenshot 2024-09-11 111632](https://github.com/user-attachments/assets/7137034a-d025-43aa-ae67-d4de10844633)
 
-![Screenshot 2024-03-28 093121](https://github.com/ARCH2006/Linux-Process-API-fork-wait-exec/assets/144300030/600ea316-a73f-4a1b-983b-f58ea445aa43)
+![Screenshot 2024-09-11 111648](https://github.com/user-attachments/assets/9c08797b-013d-4a8f-97be-008d55c8f276)
 
-
-![Screenshot 2024-03-28 093141](https://github.com/ARCH2006/Linux-Process-API-fork-wait-exec/assets/144300030/3e37d025-e5ce-467c-be76-8ff6df26e2c7)
-
-
-
-
-
-
-
-
+![Screenshot 2024-09-11 111659](https://github.com/user-attachments/assets/5776dc66-3acd-49f7-a23b-1a34113ff3b3)
 
 
 ## C Program to create new process using Linux API system calls fork() and exit()
-
-
-
-![Screenshot 2024-03-26 111936](https://github.com/ARCH2006/Linux-Process-API-fork-wait-exec/assets/144300030/e4568bde-1a35-438f-9a26-aecf564fb2c9)
-
-
-
-
-
-
-
-
+![Screenshot 2024-09-11 111719](https://github.com/user-attachments/assets/b32a0292-4dc4-4705-81a6-1765032ca6d8)
 
 
 ##OUTPUT
 
-![Screenshot 2024-03-26 111951](https://github.com/ARCH2006/Linux-Process-API-fork-wait-exec/assets/144300030/0471467c-2756-468b-9733-937002f9e4e4)
 
+![Screenshot 2024-09-11 111728](https://github.com/user-attachments/assets/ccc162d5-262c-4bcf-bf09-fb4af0867790)
 
 
 
@@ -149,7 +129,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ##OUTPUT
 
-![Screenshot 2024-03-31 132809](https://github.com/ARCH2006/Linux-Process-API-fork-wait-exec/assets/144300030/484c81ce-b3aa-4741-811b-ae11bd29fcd5)
+![Screenshot 2024-09-11 111737](https://github.com/user-attachments/assets/2ecdb18d-4ab9-4191-9a6d-c80ef02fb9fc)
 
 
 
