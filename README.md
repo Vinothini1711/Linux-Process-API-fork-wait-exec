@@ -1,7 +1,6 @@
 
 
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
-Operating systems Lab exercise
 
 
 # AIM:
